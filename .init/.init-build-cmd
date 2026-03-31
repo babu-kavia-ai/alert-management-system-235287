@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/tmp/kavia/workspace/code-generation/alert-management-system-235287/alert_database"
+}
